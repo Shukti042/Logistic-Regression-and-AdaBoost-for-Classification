@@ -26,7 +26,7 @@ The **train** function runs logistic regression on the given dataset and returns
 
 ## Performance
 
-### **<u>Dataset</u> 1:**
+### <u>**Dataset 1:**</u>
 
 #### **Logistic Regression :**
 
@@ -48,7 +48,7 @@ The **train** function runs logistic regression on the given dataset and returns
 |              15               | 0.7951721 | 0.81192334 |
 |              20               | 0.7951721 | 0.81192334 |
 
-### **<u>Dataset</u> 2:**
+### <u>**Dataset 2:**</u>
 
 #### **Logistic Regression :**
 
@@ -70,7 +70,7 @@ The **train** function runs logistic regression on the given dataset and returns
 |            15             | 0.8453364 | 0.8452797 |
 |            20             | 0.8453364 | 0.8452797 |
 
-### **<u>Dataset</u> 3:**
+### <u>**Dataset 3:**</u>
 
 #### **Logistic Regression :**
 
